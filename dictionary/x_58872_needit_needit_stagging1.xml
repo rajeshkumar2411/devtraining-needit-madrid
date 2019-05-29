@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_stagging1" max_length="40" name="x_58872_needit_needit_stagging1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reequested for" label="Reequested for" max_length="40" name="u_reequested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requested Type" label="Requested Type" max_length="40" name="u_requested_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short Description" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>
